@@ -1,0 +1,5 @@
+Name,Image,Ingredients,Price
+Paneer Tikka,./Imgs/paneer_tikka.png,"Paneer (Indian cottage cheese), Bell peppers, Onions, Yogurt, Ginger-garlic paste, Spices (like cumin powder, coriander powder, garam masala), Lemon juice, Oil, Salt",40
+Butter Chicken,./Imgs/butter_chicken.png,"Chicken, Tomatoes, Onions, Ginger-garlic paste, Cream, Butter, Spices (like cumin powder, coriander powder, garam masala), Kasuri methi (dried fenugreek leaves), Cashew nuts, Lemon juice, Oil, Salt",45
+Aloo Paratha,./Imgs/aloo_paratha.png,"Whole wheat flour, Potatoes, Onions, Green chilies, Ginger, Coriander leaves, Spices (like cumin seeds, coriander powder), Oil, Salt",30
+Rajma,./Imgs/rajma.png,"Kidney beans, Onions, Tomatoes, Ginger, Garlic, Green chilies, Spices (like cumin seeds, coriander powder, garam masala), Kasuri methi (dried fenugreek leaves), Coriander leaves, Oil, Salt",25

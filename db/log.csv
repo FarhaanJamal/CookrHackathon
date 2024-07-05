@@ -1,0 +1,3 @@
+Menu,Status,Remark
+"Idly-./Imgs/idly.png-Idli rice-Urad dal-Fenugreek seeds-Salt-Water-20_Dosa-./Imgs/dosa.png-Rice flour-Urad dal-Fenugreek seeds-Salt-Water-25",approved,"all ingredients are reasonable for cooking the given dishes and price is also valid"
+"Vada-./Imgs/vada.png-'Urad-dal-Green chilies-Ginger-Curry leaves-Salt-Oil'-20_Puri-./Imgs/puri.png-'Wheat flour-Semolina-Salt-Water-Oil'-40",rejected,"all ingredients are reasonable for cooking but given dishes and price are over priced and too high puri does not cost 40 and vada doesnot cost 20"

@@ -1,0 +1,6 @@
+Name,Type,Quantity,Ingredients,Price
+Burger,Patty,1 Nos,"Burger bun, patty (beef, chicken, or veg), lettuce, tomato, onion, cheese, sauce (mayonnaise, ketchup), pickles",100
+Sandwich,Layered,1 Nos,"Bread slices, filling (vegetables, cheese, meat), butter, sauce (mayonnaise, mustard)",60
+Pizza,Cheesy,1 medium,"Pizza dough, pizza sauce, cheese, toppings (pepperoni, vegetables, etc.), herbs (basil, oregano), olive oil",300
+French Fries,Crispy,250 grams,"Potatoes, oil, salt",80
+Hot Dogs,Snappier,2 Nos,"Hotdog buns, sausages (chicken, pork, beef), mustard, ketchup, onions, relish",120

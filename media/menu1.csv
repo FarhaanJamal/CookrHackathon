@@ -1,0 +1,5 @@
+Name,Image,Ingredients,Price
+Masala Dosa,./Imgs/masala_dosa.png,"Rice flour, Urad dal, Fenugreek seeds, Potatoes, Onions, Green chilies, Ginger, Turmeric powder, Mustard seeds, Curry leaves, Oil, Salt, Water",35
+Pongal,./Imgs/pongal.png,"Rice, Moong dal, Black pepper, Cumin seeds, Ginger, Ghee, Cashew nuts",30
+Vada,./Imgs/vada.png,"Urad dal, Green chilies, Ginger, Curry leaves, Asafoetida, Salt, Oil",15
+Sambar,./Imgs/sambar.png,"Toor dal, Mixed vegetables (like carrots, beans, potatoes, drumsticks), Tamarind, Sambar powder, Turmeric powder, Asafoetida, Mustard seeds, Curry leaves, Dry red chilies, Oil, Salt, Water",25
